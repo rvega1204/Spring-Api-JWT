@@ -204,8 +204,7 @@ jwt.expiration=86400000
 1. **Clone the repository**
 
 ```bash
-git clone <repository-url>
-cd spring-api-starter
+git clone https://github.com/rvega1204/Spring-Api-JWT.git
 ```
 
 2. **Configure database**
